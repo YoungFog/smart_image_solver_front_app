@@ -172,7 +172,7 @@ export default {
                 	})
                 	.catch(error => {
                         uni.showToast({
-                        	title: 'Android10+设备不允许读取非系统公共目录文件和系统公共目录的非媒体文件（音频文件、视频文件、图片文件），请移动至应用沙盒目录！',
+                        	title: '您未允许本应用开启读写手机存储的权限，无法正常使用功能！',
                         	icon: 'none',
                         	mask: true
                         })
