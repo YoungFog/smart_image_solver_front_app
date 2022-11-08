@@ -13,6 +13,5 @@ remember to add uview-ui to the uniapp project with HBuildX
 
 ## Download Release
 <br>
-u can download apk in Release
-<br>
-or click the link:https://github.com/YoungFog/smart_image_solver_front_app/releases/download/android/Smart_Image_Solver_version_1.0.4.apk
+u can download apk in Release or click the link:
+https://github.com/YoungFog/smart_image_solver_front_app/releases/download/android/Smart_Image_Solver_version_1.0.4.apk
