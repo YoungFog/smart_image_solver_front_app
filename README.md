@@ -4,19 +4,14 @@ An app to enter a college competition
 remember to add uview-ui to the uniapp project with HBuildX
 <br>
 ## Preview
-![0 0_parsed_parsed](https://user-images.githubusercontent.com/74957969/200535674-00429bb2-197d-447c-ac68-03b3fbe581ef.png)
-![0 1_parsed](https://user-images.githubusercontent.com/74957969/200535252-06b1696a-3120-467b-b6ce-111676e5928d.jpg)
-![1 0_parsed](https://user-images.githubusercontent.com/74957969/200535262-0ee495d6-199a-43e3-ba9b-40197feb94a4.jpg)
-![1 8_parsed](https://user-images.githubusercontent.com/74957969/200535267-2efe6eca-2ad7-42b0-a55d-8f1d89fef495.jpg)
-![2 1_parsed](https://user-images.githubusercontent.com/74957969/200535276-e40f37bb-2257-4621-bc21-487a6927149b.jpg)
-![2 5_parsed](https://user-images.githubusercontent.com/74957969/200535285-bbc30e71-b861-4b9a-b03a-005bd32ef857.jpg)
-![3 3_parsed](https://user-images.githubusercontent.com/74957969/200535291-341ebb7d-0f69-4b35-923d-0c7ad859f2fa.jpg)
-![3 5_parsed](https://user-images.githubusercontent.com/74957969/200535297-dcbdefba-8e9f-45ef-b2de-89ed050a7f99.jpg)
-![4 1_parsed](https://user-images.githubusercontent.com/74957969/200535298-e08fa3a3-1c4b-48ea-ba37-d29e5ca1e858.jpg)
-![4 3_parsed](https://user-images.githubusercontent.com/74957969/200535305-5b7ec04b-f45d-4894-9359-d820bb8f1ad4.jpg)
-![5 4_parsed](https://user-images.githubusercontent.com/74957969/200535314-f0c40687-8cf9-4da9-b307-1c6a8334c830.jpg)
+<img src="https://user-images.githubusercontent.com/74957969/200536311-7ceb38f9-1d56-4f03-99cd-fb7e022f088e.png" width="400px" align='left'><img src="https://user-images.githubusercontent.com/74957969/200536316-03f88650-ed57-46b1-89b8-1f37fea3c8d6.jpg" width="400px" align='right'>
+<img src="https://user-images.githubusercontent.com/74957969/200536326-670fa708-354b-4e84-95e3-45cf6843394c.jpg" width="400px" align='left'><img src="https://user-images.githubusercontent.com/74957969/200536336-4f984aec-7b0f-4b5c-aa58-e65a325dca25.jpg" width="400px" align='right'>
+<img src="https://user-images.githubusercontent.com/74957969/200536346-930e22f0-1d1e-4c26-8c82-8a6f89922d25.jpg" width="400px" align='left'><img src="https://user-images.githubusercontent.com/74957969/200536355-48359a2d-f89d-4465-a177-bc02e3014261.jpg" width="400px" align='right'>
+<img src="https://user-images.githubusercontent.com/74957969/200536363-aaf86b3d-0a9c-446d-aa57-90016dcd84f3.jpg" width="400px" align='left'><img src="https://user-images.githubusercontent.com/74957969/200536382-ef3fcf06-d481-4832-a1e9-447c76f4a00e.jpg" width="400px" align='right'>
+<img src="https://user-images.githubusercontent.com/74957969/200536383-9eb59cb6-7bda-4378-be92-720867ac721f.jpg" width="400px" align='left'><img src="https://user-images.githubusercontent.com/74957969/200536384-9169de4f-49d3-40a5-ad13-b09bb675437d.jpg" width="400px" align='right'>
+<img src="https://user-images.githubusercontent.com/74957969/200536388-ca4f6d9d-1065-46b5-8078-a633641687f8.jpg" width="400px">
 
-##Download Release
+## Download Release
 <br>
 u can download apk in Release
 <br>
