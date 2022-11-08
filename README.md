@@ -3,18 +3,19 @@ An app to enter a college competition
 
 remember to add uview-ui to the uniapp project with HBuildX
 <br>
-##Preview
-![0 0](https://user-images.githubusercontent.com/74957969/200532235-0a87d074-5348-4649-bfd7-aad8e92d91f1.png)
-![0 1](https://user-images.githubusercontent.com/74957969/200532247-dc162311-5f8b-4c4f-9691-8891fbe366dd.jpg)
-![1 0](https://user-images.githubusercontent.com/74957969/200532252-24d5cf97-0525-426a-b276-7c3c537334c4.jpg)
-![1 8](https://user-images.githubusercontent.com/74957969/200532264-eeb6fd16-6d8e-459a-8b45-1c85ef5cfec8.jpg)
-![2 1](https://user-images.githubusercontent.com/74957969/200532269-479c10c2-a668-4ab9-bc30-b6643de7c4c4.jpg)
-![2 5](https://user-images.githubusercontent.com/74957969/200532273-f2322d85-ddb1-4f2c-9bc4-c7083cf69679.jpg)
-![3 3](https://user-images.githubusercontent.com/74957969/200532277-c44f9014-516d-468b-9c54-8adc749a363a.jpg)
-![3 5](https://user-images.githubusercontent.com/74957969/200532287-85ed4279-003f-4166-9a98-2b385c1a62a0.jpg)
-![4 1](https://user-images.githubusercontent.com/74957969/200532294-3876e915-c790-4a15-b657-a5955db01e14.jpg)
-![4 3](https://user-images.githubusercontent.com/74957969/200532301-3d9149b3-b796-44f0-9060-5788726efc37.jpg)
-![5 4](https://user-images.githubusercontent.com/74957969/200532304-f163e3ab-2e35-4fc8-9f15-fff6ca4bc8d6.jpg)
+## Preview
+![0 0_parsed_parsed](https://user-images.githubusercontent.com/74957969/200535674-00429bb2-197d-447c-ac68-03b3fbe581ef.png)
+![0 1_parsed](https://user-images.githubusercontent.com/74957969/200535252-06b1696a-3120-467b-b6ce-111676e5928d.jpg)
+![1 0_parsed](https://user-images.githubusercontent.com/74957969/200535262-0ee495d6-199a-43e3-ba9b-40197feb94a4.jpg)
+![1 8_parsed](https://user-images.githubusercontent.com/74957969/200535267-2efe6eca-2ad7-42b0-a55d-8f1d89fef495.jpg)
+![2 1_parsed](https://user-images.githubusercontent.com/74957969/200535276-e40f37bb-2257-4621-bc21-487a6927149b.jpg)
+![2 5_parsed](https://user-images.githubusercontent.com/74957969/200535285-bbc30e71-b861-4b9a-b03a-005bd32ef857.jpg)
+![3 3_parsed](https://user-images.githubusercontent.com/74957969/200535291-341ebb7d-0f69-4b35-923d-0c7ad859f2fa.jpg)
+![3 5_parsed](https://user-images.githubusercontent.com/74957969/200535297-dcbdefba-8e9f-45ef-b2de-89ed050a7f99.jpg)
+![4 1_parsed](https://user-images.githubusercontent.com/74957969/200535298-e08fa3a3-1c4b-48ea-ba37-d29e5ca1e858.jpg)
+![4 3_parsed](https://user-images.githubusercontent.com/74957969/200535305-5b7ec04b-f45d-4894-9359-d820bb8f1ad4.jpg)
+![5 4_parsed](https://user-images.githubusercontent.com/74957969/200535314-f0c40687-8cf9-4da9-b307-1c6a8334c830.jpg)
+
 ##Download Release
 <br>
 u can download apk in Release
